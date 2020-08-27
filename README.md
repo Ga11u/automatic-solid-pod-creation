@@ -1,2 +1,2 @@
 # automatic-solid-pod-creation
-Automatic SOLID PODS creation code
+Automatic SOLID PODs creation code
